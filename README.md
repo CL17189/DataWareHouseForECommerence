@@ -1,6 +1,7 @@
 # Project Architecture
 
-![Snipaste_2022-12-02_19-54-10](assets/Snipaste_2022-12-02_19-54-10.png)
+<img width="939" alt="image" src="https://github.com/user-attachments/assets/25668088-a0d0-4b3d-be11-2294041c1af1" />
+
 
 Real-time Core: Flink  
 Offline Core: Spark  
