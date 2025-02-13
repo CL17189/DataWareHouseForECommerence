@@ -1,6 +1,7 @@
 # Project Architecture
 
-<img width="939" alt="image" src="https://github.com/user-attachments/assets/25668088-a0d0-4b3d-be11-2294041c1af1" />
+![Uploading image.png…]()
+
 
 
 Real-time Core: Flink  
