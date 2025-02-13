@@ -1,6 +1,7 @@
 # Project Architecture
 
-![Uploading image.png…]()
+<img width="939" alt="image" src="https://github.com/user-attachments/assets/f6ca8bca-1b8b-45c2-97f5-6005fadebfe6" />
+
 
 
 
